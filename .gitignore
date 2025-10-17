@@ -1,2 +1,4 @@
 train.h5
 /__pycache__
+val.h5
+/logs
