@@ -7,6 +7,11 @@ This code was written with PyTorch<0.4, but most people must be using PyTorch>=0
 
 ****
 
+## env
+```
+conda env create -f environment.yml
+```
+
 ## How to run
 
 ### 1. Dependences
